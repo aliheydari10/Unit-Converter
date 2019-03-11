@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">unit</string>
+
+
+    <string-array name="spinner">
+
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>inch</item>
+
+    </string-array>
+
+
+</resources>
+
+
+
